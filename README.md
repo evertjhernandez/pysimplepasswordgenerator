@@ -15,7 +15,7 @@ PySimplePasswordGenerator is a simple web application that generates random pass
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/PySimplePasswordGenerator.git
+    git clone https://github.com/evertjhernandez/pysimplepasswordgenerator.git
     cd PySimplePasswordGenerator
     ```
 
